@@ -60,11 +60,11 @@ Sistem ini sangat responsif karena menggunakan teknologi **Livewire 3** (SPA-lik
 
 | Halaman Utama & Dasbor | Pelaporan Darurat & Peta |
 |:---:|:---:|
-| <img src="https://via.placeholder.com/600x350/ffffff/3B82F6?text=Dashboard+Pengguna" alt="Dashboard Pengguna" width="100%"> | <img src="https://via.placeholder.com/600x350/ffffff/EF4444?text=Laporan+Darurat+%2B+Maps" alt="Emergency Report" width="100%"> |
+| <img src="https://placehold.co/600x350/E2E8F0/1E293B?text=Dashboard+Pengguna" alt="Dashboard Pengguna" width="100%"> | <img src="https://placehold.co/600x350/E2E8F0/1E293B?text=Laporan+Darurat+%2B+Maps" alt="Emergency Report" width="100%"> |
 
 | Manajemen Tiket (Admin) | Login Google |
 |:---:|:---:|
-| <img src="https://via.placeholder.com/600x350/ffffff/8B5CF6?text=Admin+Panel" alt="Admin Panel" width="100%"> | <img src="https://via.placeholder.com/600x350/ffffff/10B981?text=Google+SSO" alt="Login" width="100%"> |
+| <img src="https://placehold.co/600x350/E2E8F0/1E293B?text=Admin+Panel" alt="Admin Panel" width="100%"> | <img src="https://placehold.co/600x350/E2E8F0/1E293B?text=Google+SSO" alt="Login" width="100%"> |
 
 </details>
 
